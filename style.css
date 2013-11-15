@@ -1,0 +1,15 @@
+* {
+	border: 1px solid red;
+   	-moz-box-sizing: border-box;
+   	-webkit-box-sizing: border-box;
+   	box-sizing: border-box;
+}
+
+.nav-button {
+	float: right;
+ 
+ }
+
+ .jumbotron {
+ 	height: 200px;
+ }
